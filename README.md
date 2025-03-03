@@ -91,6 +91,8 @@
 
 <br clear="both" />
 
+[![An image of @sumanjain2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumanjain2005)](https://holopin.io/@sumanjain2005)
+
 <img src="https://raw.githubusercontent.com/Itz-snj/Itz-snj/output/snake.svg" alt="Snake animation" />
 
 ###
