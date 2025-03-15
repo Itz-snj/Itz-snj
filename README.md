@@ -91,6 +91,8 @@
   <img src="https://streak-stats.demolab.com?user=Itz-snj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Itz-snj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="github stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itz-snj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top langs"  />
+  <br />
+  <a href="https://wakatime.com/@42c05ce7-9563-4a41-8fdd-74d249f25918"><img src="https://wakatime.com/badge/user/42c05ce7-9563-4a41-8fdd-74d249f25918.svg" alt="Total time coded since Nov 15 2024" /></a>
 </div>
 
 <br clear="both" />
