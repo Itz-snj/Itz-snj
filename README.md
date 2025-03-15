@@ -69,7 +69,6 @@
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
 </div>
 
-###
 <h2 align="start">Let's Connect</h2>
 <div align="left">
   <a href="https://www.instagram.com/suman_n_jain/" target="_blank">
@@ -86,7 +85,7 @@
 </a>
 </div>
 
-###
+<h2 align="center">Github Stats</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Itz-snj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -96,8 +95,11 @@
 
 <br clear="both" />
 <!-- [![An image of @sumanjain2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumanjain2005)](https://holopin.io/@sumanjain2005)-->
+<h2 align="center">HoloPin Badges {old id}</h2>
 <img src="https://holopin.me/sumanjain2005" alt="holopin" />
-<img src="https://raw.githubusercontent.com/Itz-snj/Itz-snj/output/snake.svg" alt="Snake animation" />
+
+<h2 align="start">Contributions Eater XD</h2>
+<img src="https://raw.githubusercontent.com/Itz-snj/Itz-snj/output/snake.svg" alt="Snake animation" width = "100%"/>
 
 <h2 align="center">GitHub Activity</h2>
 <p align="center">
