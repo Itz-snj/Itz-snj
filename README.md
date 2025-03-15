@@ -105,3 +105,6 @@
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Itz-snj&theme=tokyo-night&hide_border=true" />
   </a>
 </p>
+<h2 align="center">Spotify and Chill 🎶😴❤️ </h2>
+<div align="center"><img alt="Activity Graph" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317fwpdoprhfaxkw545ji33zbqq4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=f50505&bar_color_cover=false" /></div>
+
