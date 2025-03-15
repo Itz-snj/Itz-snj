@@ -8,6 +8,10 @@
 
 ###
 
+[![An image of @sumanjain2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumanjain2005)](https://holopin.io/@sumanjain2005)
+
+
+<h2 align="start">Tech Stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -93,14 +97,13 @@
 
 <br clear="both" />
 
-[![An image of @sumanjain2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumanjain2005)](https://holopin.io/@sumanjain2005)
+
 
 <img src="https://raw.githubusercontent.com/Itz-snj/Itz-snj/output/snake.svg" alt="Snake animation" />
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">GitHub Activity</h2>
 <p align="center">
   <a href="https://github.com/Itz-snj">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Itz-snj&theme=tokyo-night&hide_border=true" />
   </a>
 </p>
-###
