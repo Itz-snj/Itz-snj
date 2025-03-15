@@ -97,4 +97,10 @@
 
 <img src="https://raw.githubusercontent.com/Itz-snj/Itz-snj/output/snake.svg" alt="Snake animation" />
 
+<h2 align="center">📊 GitHub Activity</h2>
+<p align="center">
+  <a href="https://github.com/Itz-snj">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Itz-snj&theme=tokyo-night&hide_border=true" />
+  </a>
+</p>
 ###
