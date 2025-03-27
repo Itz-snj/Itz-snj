@@ -42,7 +42,7 @@
 <a href="https://x.com/Suman_N_Jain" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="70" alt="Twitter logo" />
 </a>
- <a href="www.youtube.com/@SUMANNARESHJAIN" target="_blank">
+ <a href="https://www.youtube.com/@SUMANNARESHJAIN" target="_blank">
  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="70" height="70">
 </a>
 </div>
@@ -116,6 +116,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Itz-snj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="github stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itz-snj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top langs"  />
   <br />
+
+ <h2 align="center">WakaTime Stats</h2>
   <a href="https://wakatime.com/@42c05ce7-9563-4a41-8fdd-74d249f25918"><img src="https://wakatime.com/badge/user/42c05ce7-9563-4a41-8fdd-74d249f25918.svg" alt="Total time coded since Nov 15 2024" /></a>
 </div>
 
@@ -126,7 +128,7 @@
 <br />
 <img src="https://raw.githubusercontent.com/Itz-snj/Itz-snj/output/snake.svg" alt="Snake animation" width = "100%"/>
 
-<h1 align="center">GitHub Activity</h1>
+<h1 align="center">GitHub Activity Graph</h1>
 <p align="center">
   <a href="https://github.com/Itz-snj">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Itz-snj&theme=tokyo-night&hide_border=true" />
