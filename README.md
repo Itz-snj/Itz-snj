@@ -19,7 +19,7 @@
 <p align="left"> 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500" align="right">
 
-- 👯 I’m love to collaborate on **Open-Source Projects**
+- 👯 I like to collaborate on **Open-Source Projects**
 
 - 🤝 I’m looking for help with **Data Structures & Algorithms**
 
