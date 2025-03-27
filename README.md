@@ -1,12 +1,16 @@
+
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/a814ec38-b01d-42be-ab6e-cacebe8c53f1" />
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br/>
+<br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=Hey!%20I%20am%20Suman&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&desc=Welcome%20here&descAlignY=63&descAlign=52" width="100%" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=450&lines=Suman+Jain" alt="Typing SVG" /></a>
 </p>
-
-
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
-
-
-
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&width=435&height=50&lines=Full+Stack+Web+Developer;DevOps+Enthusiast;Problem+Solver;Open+Source+Contributer" alt="Typing SVG" /></a>
+</p>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align="start">Tech Stack</h1>
 <div align="left">
