@@ -122,13 +122,11 @@
 </div>
 
 <br clear="both" />
-<!-- [![An image of @sumanjain2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumanjain2005)](https://holopin.io/@sumanjain2005)-->
 <h1 align="center">HoloPin Badges {old id}</h1>
 <img src="https://holopin.me/sumanjain2005" alt="holopin" />
 <br />
 
 <br clear="both" />
-<!-- [![An image of @sumanjain2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumanjain2005)](https://holopin.io/@sumanjain2005)-->
 <h1 align="center">HoloPin Badges </h1>
 <img src="https://holopin.me/itzsnj" alt="holopin" />
 <br />
