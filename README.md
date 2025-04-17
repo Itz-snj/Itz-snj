@@ -23,6 +23,8 @@
 
 - 🤝 I’m looking for help with **Data Structures & Algorithms**
 
+- 👀 Currently learning Something :) 
+
 - 📫 How to reach me **sumannareshclg@gmail.com**
 
 - ⚡ Fun fact **🐐Visca el Barça🥅**
