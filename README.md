@@ -3,18 +3,7 @@
 <a href="https://suman-jain.vercel.app/" ><img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/a814ec38-b01d-42be-ab6e-cacebe8c53f1" /> </a>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br/>
-<br/>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=450&lines=Suman+Jain" alt="Typing SVG" /></a>
-</p>
-<p align="center">
- <a href="https://suman-jain.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&width=435&height=50&lines=Click+on+my+name+to+know+more;Full+Stack+Web+Developer;DevOps+Enthusiast;Problem+Solver;Open+Source+Contributer" alt="Typing SVG" /></a>
-</p>
 
-
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img src="https://komarev.com/ghpvc/?username=Itz-snj&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyajit2825" /> 
 <p align="left"> 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500" align="right">
