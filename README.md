@@ -112,15 +112,13 @@
   <a href="https://wakatime.com/@42c05ce7-9563-4a41-8fdd-74d249f25918"><img src="https://wakatime.com/badge/user/42c05ce7-9563-4a41-8fdd-74d249f25918.svg" alt="Total time coded since Nov 15 2024" /></a>
 </div>
 
-<br clear="both" />
-<h1 align="center">HoloPin Badges {old id}</h1>
+<h1 align="center">HoloPin Badges </h1>
+
+<img src="https://holopin.me/itzsnj" alt="holopin" />
 <img src="https://holopin.me/sumanjain2005" alt="holopin" />
 <br />
 
 <br clear="both" />
-<h1 align="center">HoloPin Badges </h1>
-<img src="https://holopin.me/itzsnj" alt="holopin" />
-<br />
 
 <img src="https://raw.githubusercontent.com/Itz-snj/Itz-snj/output/snake.svg" alt="Snake animation" width = "100%"/>
 
